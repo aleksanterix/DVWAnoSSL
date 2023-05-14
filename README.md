@@ -1,3 +1,13 @@
+# DISCLAIMER
+
+This is my version of DVWA with SSL enabled in order to use it with Azure MySQL Database
+
+WIP This still is 100% the same as from the original DVWA Repository
+
+All credits go out to Digininja
+
+Original: https://github.com/digininja/DVWA
+
 # DAMN VULNERABLE WEB APPLICATION
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
